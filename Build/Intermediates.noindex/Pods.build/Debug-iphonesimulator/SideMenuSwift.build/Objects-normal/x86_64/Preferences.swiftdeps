@@ -1,0 +1,290 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "13SideMenuSwift0aB10ControllerC11PreferencesV"
+- "13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO"
+- "13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO"
+- "13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO"
+- "13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV"
+- "13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV"
+provides-member:
+- ["13SideMenuSwift0aB10ControllerC", ""]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", ""]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", ""]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO", ""]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO", ""]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", ""]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", ""]
+- ["13SideMenuSwift0aB10ControllerC", "Preferences"]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "Bool"
+- "BooleanLiteralType"
+- "CGFloat"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "SideMenuController"
+- "String"
+- "TimeInterval"
+- "UIColor"
+- "UIInterfaceOrientationMask"
+- "UIView"
+depends-member:
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "CGFloat"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "TimeInterval"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "UIColor"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "UIView"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "dampingRatio"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "hideDuration"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "init"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "initialSpringVelocity"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "options"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "revealDuration"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "shadowAlpha"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "shadowColor"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV", "shouldAddShadowWhenRevealing"]
+- ["So22UIViewAnimationOptionsV", "curveEaseInOut"]
+- ["So15CALayerDelegateP", "AnimationOptions"]
+- ["s7CVarArgP", "AnimationOptions"]
+- ["s7CVarArgP", "black"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "Bool"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "CGFloat"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "MenuDirection"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "MenuPosition"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "StatusBarBehavior"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "String"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "UIInterfaceOrientationMask"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "defaultCacheKey"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "direction"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "enablePanGesture"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "enableRubberEffectWhenPanning"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "hideMenuWhenEnteringBackground"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "init"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "menuWidth"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "position"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "shouldAutorotate"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "shouldRespectLanguageDirection"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "shouldUseContentSupportedOrientations"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "statusBarBehavior"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV", "supportedOrientations"]
+- ["s28CustomDebugStringConvertibleP", "AnimationOptions"]
+- ["s28CustomDebugStringConvertibleP", "black"]
+- ["s23CustomStringConvertibleP", "AnimationOptions"]
+- ["s23CustomStringConvertibleP", "black"]
+- ["SQ", "=="]
+- ["SQ", "AnimationOptions"]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "above"]
+- ["SQ", "allButUpsideDown"]
+- ["SQ", "black"]
+- ["SQ", "curveEaseInOut"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "left"]
+- ["SQ", "none"]
+- ["s25ExpressibleByArrayLiteralP", "allButUpsideDown"]
+- ["s25ExpressibleByArrayLiteralP", "curveEaseInOut"]
+- ["SH", "=="]
+- ["SH", "AnimationOptions"]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "above"]
+- ["SH", "black"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "left"]
+- ["SH", "none"]
+- !private ["s6HasherV", "combine"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO", "=="]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO", "__derived_enum_equals"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO", "_rawHashValue"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO", "deinit"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO", "hash"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO", "hashValue"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO", "left"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO", "right"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO", "=="]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO", "__derived_enum_equals"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO", "_rawHashValue"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO", "above"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO", "deinit"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO", "hash"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO", "hashValue"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO", "sideBySide"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO", "under"]
+- ["So8NSCodingP", "AnimationOptions"]
+- ["So8NSCodingP", "black"]
+- ["So9NSCopyingP", "black"]
+- ["So21NSItemProviderReadingP", "black"]
+- ["So21NSItemProviderWritingP", "black"]
+- ["So8NSObjectC", "AnimationOptions"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "TimeInterval"]
+- ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "UIInterfaceOrientationMask"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "black"]
+- ["So8NSObjectP", "AnimationOptions"]
+- ["So8NSObjectP", "black"]
+- ["So14NSSecureCodingP", "black"]
+- ["s9OptionSetP", "allButUpsideDown"]
+- ["s9OptionSetP", "curveEaseInOut"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "Animation"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "Bool"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "CGFloat"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "Configuration"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "MenuDirection"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "MenuPosition"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "StatusBarBehavior"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "String"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "TimeInterval"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "UIColor"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "UIInterfaceOrientationMask"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "UIView"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "animation"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "basic"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV", "init"]
+- ["SY", "allButUpsideDown"]
+- ["SY", "curveEaseInOut"]
+- ["s10SetAlgebraP", "allButUpsideDown"]
+- ["s10SetAlgebraP", "curveEaseInOut"]
+- ["13SideMenuSwift0aB10ControllerC", "Bool"]
+- ["13SideMenuSwift0aB10ControllerC", "CGFloat"]
+- ["13SideMenuSwift0aB10ControllerC", "Preferences"]
+- ["13SideMenuSwift0aB10ControllerC", "String"]
+- ["13SideMenuSwift0aB10ControllerC", "TimeInterval"]
+- ["13SideMenuSwift0aB10ControllerC", "UIColor"]
+- ["13SideMenuSwift0aB10ControllerC", "UIInterfaceOrientationMask"]
+- ["13SideMenuSwift0aB10ControllerC", "UIView"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", "=="]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", "__derived_enum_equals"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", "_rawHashValue"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", "deinit"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", "fade"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", "hash"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", "hashValue"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", "hideOnMenu"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", "none"]
+- ["13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO", "slide"]
+- ["So29UIAccessibilityIdentificationP", "AnimationOptions"]
+- ["So12UIAppearanceP", "AnimationOptions"]
+- ["So21UIAppearanceContainerP", "AnimationOptions"]
+- ["So7UIColorC", "black"]
+- ["So17UICoordinateSpaceP", "AnimationOptions"]
+- ["So13UIDynamicItemP", "AnimationOptions"]
+- ["So18UIFocusEnvironmentP", "AnimationOptions"]
+- ["So11UIFocusItemP", "AnimationOptions"]
+- ["So20UIFocusItemContainerP", "AnimationOptions"]
+- ["So26UIInterfaceOrientationMaskV", "allButUpsideDown"]
+- ["So24UILargeContentViewerItemP", "AnimationOptions"]
+- ["So30UIPasteConfigurationSupportingP", "AnimationOptions"]
+- ["So11UIResponderC", "AnimationOptions"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "TimeInterval"]
+- ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UIInterfaceOrientationMask"]
+- ["So11UIResponderC", "UIView"]
+- ["So30UIResponderStandardEditActionsP", "AnimationOptions"]
+- ["So18UITraitEnvironmentP", "AnimationOptions"]
+- ["So23UIUserActivityRestoringP", "AnimationOptions"]
+- ["So6UIViewC", "AnimationOptions"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "CGFloat"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "TimeInterval"]
+- ["So16UIViewControllerC", "UIColor"]
+- ["So16UIViewControllerC", "UIInterfaceOrientationMask"]
+- ["So16UIViewControllerC", "UIView"]
+- ["s26_ExpressibleByColorLiteralP", "black"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "AnimationOptions"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "AnimationOptions"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "black"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "AnimationOptions"]
+depends-nominal:
+- "13SideMenuSwift0aB10ControllerC11PreferencesV9AnimationV"
+- "So22UIViewAnimationOptionsV"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "13SideMenuSwift0aB10ControllerC11PreferencesV13ConfigurationV"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "SH"
+- !private "s6HasherV"
+- "13SideMenuSwift0aB10ControllerC11PreferencesV0B9DirectionO"
+- "13SideMenuSwift0aB10ControllerC11PreferencesV0B8PositionO"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "s9OptionSetP"
+- "13SideMenuSwift0aB10ControllerC11PreferencesV"
+- "SY"
+- "s10SetAlgebraP"
+- "13SideMenuSwift0aB10ControllerC"
+- "13SideMenuSwift0aB10ControllerC11PreferencesV17StatusBarBehaviorO"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So7UIColorC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So26UIInterfaceOrientationMaskV"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/macexpert/Downloads/CommuniSki/Pods/Target Support Files/SideMenuSwift/SideMenuSwift-umbrella.h"
+- "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/SideMenu.h"
+- "/Users/macexpert/Downloads/CommuniSki/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SideMenuSwift.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9e733bec94d51222a1b3668d99b04498"

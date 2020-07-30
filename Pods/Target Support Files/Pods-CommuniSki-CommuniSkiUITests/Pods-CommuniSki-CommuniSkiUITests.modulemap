@@ -1,0 +1,6 @@
+framework module Pods_CommuniSki_CommuniSkiUITests {
+  umbrella header "Pods-CommuniSki-CommuniSkiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

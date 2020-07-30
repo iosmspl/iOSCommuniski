@@ -1,0 +1,6 @@
+framework module Pods_CommuniSki {
+  umbrella header "Pods-CommuniSki-umbrella.h"
+
+  export *
+  module * { export * }
+}

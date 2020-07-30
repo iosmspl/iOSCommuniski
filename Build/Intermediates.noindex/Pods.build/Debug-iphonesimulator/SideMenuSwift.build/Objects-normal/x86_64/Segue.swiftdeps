@@ -1,0 +1,253 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SideMenuSegue"
+provides-nominal:
+- "13SideMenuSwift0aB5SegueC"
+- "13SideMenuSwift0aB5SegueC11ContentTypeO"
+provides-member:
+- ["13SideMenuSwift0aB5SegueC", ""]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", ""]
+provides-dynamic-lookup:
+- "contentType"
+- "perform"
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "SideMenuController"
+- "SideMenuSegue"
+- "String"
+- "StringLiteralType"
+- "UIStoryboardSegue"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["s7CVarArgP", "ContentType"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_findStringSwitchCase"]
+- !private ["s7CVarArgP", "contentType"]
+- !private ["s7CVarArgP", "contentViewController"]
+- !private ["s7CVarArgP", "destination"]
+- !private ["s7CVarArgP", "menuViewController"]
+- !private ["s7CVarArgP", "source"]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "=="]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "RawValue"]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "_Default_RawValue"]
+- !private ["13SideMenuSwift0aB5SegueC11ContentTypeO", "_findStringSwitchCase"]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "_rawHashValue"]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "content"]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "deinit"]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "hash"]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "hashValue"]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "init"]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "menu"]
+- ["13SideMenuSwift0aB5SegueC11ContentTypeO", "rawValue"]
+- ["s28CustomDebugStringConvertibleP", "ContentType"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "_findStringSwitchCase"]
+- !private ["s28CustomDebugStringConvertibleP", "contentType"]
+- !private ["s28CustomDebugStringConvertibleP", "contentViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "destination"]
+- !private ["s28CustomDebugStringConvertibleP", "menuViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "source"]
+- ["s23CustomStringConvertibleP", "ContentType"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_findStringSwitchCase"]
+- !private ["s23CustomStringConvertibleP", "contentType"]
+- !private ["s23CustomStringConvertibleP", "contentViewController"]
+- !private ["s23CustomStringConvertibleP", "destination"]
+- !private ["s23CustomStringConvertibleP", "menuViewController"]
+- !private ["s23CustomStringConvertibleP", "source"]
+- ["SQ", "=="]
+- ["SQ", "ContentType"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "content"]
+- !private ["SQ", "contentType"]
+- !private ["SQ", "contentViewController"]
+- !private ["SQ", "destination"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "menu"]
+- !private ["SQ", "menuViewController"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "source"]
+- ["SH", "=="]
+- ["SH", "ContentType"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- ["SH", "content"]
+- !private ["SH", "contentType"]
+- !private ["SH", "contentViewController"]
+- !private ["SH", "destination"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "menu"]
+- !private ["SH", "menuViewController"]
+- ["SH", "rawValue"]
+- !private ["SH", "source"]
+- !private ["So8NSCodingP", "contentViewController"]
+- !private ["So8NSCodingP", "menuViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "contentViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "menuViewController"]
+- ["So8NSObjectC", "ContentType"]
+- !private ["So8NSObjectC", "SideMenuController"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "_findStringSwitchCase"]
+- ["So8NSObjectC", "contentType"]
+- !private ["So8NSObjectC", "contentViewController"]
+- !private ["So8NSObjectC", "destination"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "menuViewController"]
+- ["So8NSObjectC", "perform"]
+- !private ["So8NSObjectC", "source"]
+- ["So8NSObjectP", "ContentType"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "_findStringSwitchCase"]
+- !private ["So8NSObjectP", "contentType"]
+- !private ["So8NSObjectP", "contentViewController"]
+- !private ["So8NSObjectP", "destination"]
+- !private ["So8NSObjectP", "menuViewController"]
+- !private ["So8NSObjectP", "source"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "content"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "menu"]
+- ["SY", "rawValue"]
+- !private ["13SideMenuSwift0aB10ControllerC", "contentViewController"]
+- !private ["13SideMenuSwift0aB10ControllerC", "menuViewController"]
+- ["13SideMenuSwift0aB5SegueC", "ContentType"]
+- !private ["13SideMenuSwift0aB5SegueC", "SideMenuController"]
+- ["13SideMenuSwift0aB5SegueC", "String"]
+- !private ["13SideMenuSwift0aB5SegueC", "_findStringSwitchCase"]
+- ["13SideMenuSwift0aB5SegueC", "contentType"]
+- ["13SideMenuSwift0aB5SegueC", "deinit"]
+- !private ["13SideMenuSwift0aB5SegueC", "destination"]
+- ["13SideMenuSwift0aB5SegueC", "init"]
+- ["13SideMenuSwift0aB5SegueC", "perform"]
+- !private ["13SideMenuSwift0aB5SegueC", "source"]
+- !private ["So21UIAppearanceContainerP", "contentViewController"]
+- !private ["So21UIAppearanceContainerP", "menuViewController"]
+- !private ["So18UIContentContainerP", "contentViewController"]
+- !private ["So18UIContentContainerP", "menuViewController"]
+- !private ["So18UIFocusEnvironmentP", "contentViewController"]
+- !private ["So18UIFocusEnvironmentP", "menuViewController"]
+- !private ["So27UIGestureRecognizerDelegateP", "contentViewController"]
+- !private ["So27UIGestureRecognizerDelegateP", "menuViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "contentViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "menuViewController"]
+- !private ["So11UIResponderC", "contentViewController"]
+- !private ["So11UIResponderC", "menuViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "contentViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "menuViewController"]
+- !private ["So16UIStateRestoringP", "contentViewController"]
+- !private ["So16UIStateRestoringP", "menuViewController"]
+- ["So17UIStoryboardSegueC", "ContentType"]
+- !private ["So17UIStoryboardSegueC", "SideMenuController"]
+- ["So17UIStoryboardSegueC", "String"]
+- ["So17UIStoryboardSegueC", ""]
+- !private ["So17UIStoryboardSegueC", "_findStringSwitchCase"]
+- ["So17UIStoryboardSegueC", "contentType"]
+- !private ["So17UIStoryboardSegueC", "destination"]
+- ["So17UIStoryboardSegueC", "init"]
+- ["So17UIStoryboardSegueC", "perform"]
+- !private ["So17UIStoryboardSegueC", "source"]
+- !private ["So18UITraitEnvironmentP", "contentViewController"]
+- !private ["So18UITraitEnvironmentP", "menuViewController"]
+- !private ["So23UIUserActivityRestoringP", "contentViewController"]
+- !private ["So23UIUserActivityRestoringP", "menuViewController"]
+- !private ["So16UIViewControllerC", "contentViewController"]
+- !private ["So16UIViewControllerC", "menuViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ContentType"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_findStringSwitchCase"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "menuViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "source"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ContentType"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "_findStringSwitchCase"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "contentType"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "contentViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "destination"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "menuViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "source"]
+depends-nominal:
+- "s7CVarArgP"
+- "13SideMenuSwift0aB5SegueC11ContentTypeO"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "SY"
+- !private "13SideMenuSwift0aB10ControllerC"
+- "13SideMenuSwift0aB5SegueC"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- "So17UIStoryboardSegueC"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/macexpert/Downloads/CommuniSki/Pods/Target Support Files/SideMenuSwift/SideMenuSwift-umbrella.h"
+- "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/SideMenu.h"
+- "/Users/macexpert/Downloads/CommuniSki/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SideMenuSwift.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "39add5482a1ec2560812fa2a57c35fcb"

@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "e906b88bd6f2e58adc4a81af493d3b7a"
+build_time: [1595826400, 602677000]
+inputs:
+  "/Users/macexpert/Downloads/CommuniSki/CommuniSki/ProfileVC.swift": [1595826029, 773604874]
+  "/Users/macexpert/Downloads/CommuniSki/CommuniSki/SignUpVC.swift": [1595751383, 291717753]
+  "/Users/macexpert/Downloads/CommuniSki/CommuniSki/AppDelegate.swift": [1595665818, 216567378]
+  "/Users/macexpert/Downloads/CommuniSki/CommuniSki/TermsandConditionsVC.swift": [1595578021, 0]
+  "/Users/macexpert/Downloads/CommuniSki/CommuniSki/LoginVC.swift": [1595755880, 796230404]
+  "/Users/macexpert/Downloads/CommuniSki/CommuniSki/SkiGroupsVC.swift": [1595755149, 985795416]
+  "/Users/macexpert/Downloads/CommuniSki/CommuniSki/TabbarVC.swift": [1595754849, 495919764]
+  "/Users/macexpert/Downloads/CommuniSki/CommuniSki/SideMenuVC.swift": [1595826399, 511122160]

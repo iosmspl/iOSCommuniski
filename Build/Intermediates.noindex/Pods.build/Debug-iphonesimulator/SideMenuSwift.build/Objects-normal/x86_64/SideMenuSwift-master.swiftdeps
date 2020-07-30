@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "ff3846f68c648743ff073258f269ef2f"
+build_time: [1595825656, 376962000]
+inputs:
+  "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/BasicTransitionAnimator.swift": [1595593182, 0]
+  "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/Delegate.swift": [1595593182, 0]
+  "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/Preferences.swift": [1595593182, 0]
+  "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/Segue.swift": [1595593182, 0]
+  "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/SideMenuController.swift": [1595593182, 0]
+  "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/StatusBar.swift": [1595593182, 0]
+  "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/TransitionContext.swift": [1595593182, 0]
+  "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/UIView+Container.swift": [1595593182, 0]
+  "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/UIViewController+Container.swift": [1595593182, 0]
+  "/Users/macexpert/Downloads/CommuniSki/Pods/SideMenuSwift/Sources/SideMenu/UIViewController+SideMenu.swift": [1595593182, 0]
